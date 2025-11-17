@@ -16,6 +16,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=souraaav&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=souraaav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<P align="left"> <img src="https://media.tenor.com/EdiGYFaZg7sAAAAi/jaded-disappointed.gif" /> </P>
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
