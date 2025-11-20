@@ -1,5 +1,5 @@
 ## Trophies
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" /> </p>
 <P align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S" /> </P>
 <P align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" /> </P>
 
