@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=#red&right_color=green) 
+
 
 ##  Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/FG4KRU2v) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cl4n.fx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sourav-chowdhury-60b104373/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/cl4n_tex_9) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Sourav-Chowdhury-the-builder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souravchowdhury804@gamil.com) 
@@ -10,8 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=souraaav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ##  GitHub Trophies
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=#red&right_color=green) 
-RGB colors eg: #595959 needs to be %23595959 in the URL
 
 ###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=souraaav&limit=5&theme=dark&combine_all_yearly_contributions=true)
