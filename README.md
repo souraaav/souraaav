@@ -1,5 +1,5 @@
 ## Trophies
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" /> </P>
+
 
 ##  Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FG4KRU2v) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cl4n.fx/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://media.licdn.com/dms/image/v2/D4D03AQGX05nnuyXTnQ/profile-displayphoto-shrink_200_200/B4DZfP8SOJG8Ag-/0/1751540376737?e=1764806400&v=beta&t=FADcDLK744Vgax-W56PLuuBcUWohjBJW0sy4CAdzgJg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/cl4n_tex_9/photo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souravchowdhury804@gamil.com) 
