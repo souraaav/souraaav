@@ -1,5 +1,5 @@
 ## Trophies
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souraaav&label=Profile%20views&color=0e75b6&style=flat" alt="souraaav" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="souraaav" /> </p>
 <P align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S" /> </P>
 <P align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" /> </P>
 
